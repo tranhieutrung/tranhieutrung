@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Trung  
 
 🎓 Software Developer in training @ Hive Helsinki (42 Network)  
-📚 MBA in Business Technology – Haaga-Helia UAS (2024)  
-💡 10+ years as Telecommunications Engineer & Data Analyst at Mobifone (Vietnam’s Top 3 Mobile Carriers)  
+📚 MBA in Business Technology – Haaga-Helia UAS (2024)
+📚 M.Eng in Telecommunications - HCMUT (2013)
+💡 10+ years as Telecommunications Engineer & Data Analyst at MobiFone (Vietnam’s Top 3 Mobile Carriers)  
 🌍 Based in Helsinki, Finland  
 
 ---
@@ -13,11 +14,7 @@
 - 🎯 Goal: Become a **Software Developer** in Finland, with interests in **Data Engineering** and **Fullstack Development**  
 - ⚡ Fun fact: I enjoy solving problems by breaking them into small, clear steps  
 
----
-
-## 🛠️ Tech Stack  
-
-**Languages & Tools**  
+--- 
 
 ## 🛠️ Tech Stack  
 
